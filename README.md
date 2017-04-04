@@ -1,5 +1,3 @@
-# Feedback
+# We've moved!
 
-This repo is for feedback on <https://www.grails3book.com>
-
-Please [open an issue](https://github.com/grails3book/feedback/issues/new) to provide feedback, thanks!
+https://gitlab.com/grails-3-book/feedback
